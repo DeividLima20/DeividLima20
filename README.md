@@ -6,8 +6,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zCc4fQKX)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeividLima7)
 
-![Deivid GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividLima20&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividLima20&layout=compact)
+<div style="display: inline-block">
+<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=DeividLima20&show_icons=true&theme=dark">
+<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividLima20&layout=compact&theme=dark">
+</div>
 
 ## Tecnologias que uso no meu dia
 

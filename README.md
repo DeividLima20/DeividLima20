@@ -7,6 +7,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DeividLima7)
 
 ![Deivid GitHub stats](https://github-readme-stats.vercel.app/api?username=DeividLima20&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeividLima20&layout=compact)
 
 ## Tecnologias que uso no meu dia
 

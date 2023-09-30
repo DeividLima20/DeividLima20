@@ -11,6 +11,16 @@
 <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividLima20&layout=compact&theme=dark">
 </div>
 
+
+
+## Meu Portfólio
+
+<h3>Olá esse é meu protiflio, nele tem meus projetos e certificados que consquistei ao longo da minha carreira na programação, lá tem tudo sobre mim e sobre meus projetos, entre nele e navague pelas pagínas, espero que goste e tenha um bom dia!</h3>
+
+<ul><li><h4 ><a href="https://meu-portfolio10.netlify.app/">Portfólio</a></h4></li></ul>
+<br/>
+
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"><br/>
@@ -21,13 +31,4 @@
 <img  align="center" alt"jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 <img  align="center" alt"angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
-<br/>
-<br/>
-<br/>
 
-## Meu Portfólio
-
-<div>
-<img src="https://github.com/DeividLima20/DeividLima20/assets/134766840/a8bc9ea5-6782-4f95-85bd-345f90cf05c0">
-<h1  align="center"><a href="https://meu-portfolio10.netlify.app/">Portfólio</a></h1>
-</div>

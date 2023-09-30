@@ -11,16 +11,6 @@
 <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeividLima20&layout=compact&theme=dark">
 </div>
 
-
-
-## Meu Portfólio
-
-<h3>Olá esse é meu protiflio, nele tem meus projetos e certificados que consquistei ao longo da minha carreira na programação, lá tem tudo sobre mim e sobre meus projetos, entre nele e navague pelas pagínas, espero que goste e tenha um bom dia!</h3>
-
-<ul><li><h4 ><a href="https://meu-portfolio10.netlify.app/">Portfólio</a></h4></li></ul>
-<br/>
-
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline-block"><br/>
